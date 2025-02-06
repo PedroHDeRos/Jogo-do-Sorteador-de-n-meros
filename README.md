@@ -1,1 +1,1 @@
-# Jogo-do-Sorteador-de-n-meros
+# Jogo-do-Sorteador-de-numeros
